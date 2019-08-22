@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moviebuff/static/css/main.56ba3fb2.chunk.css",
-    "main.js": "/moviebuff/static/js/main.aac59848.chunk.js",
-    "main.js.map": "/moviebuff/static/js/main.aac59848.chunk.js.map",
+    "main.js": "/moviebuff/static/js/main.b2309ee4.chunk.js",
+    "main.js.map": "/moviebuff/static/js/main.b2309ee4.chunk.js.map",
     "runtime~main.js": "/moviebuff/static/js/runtime~main.891e3496.js",
     "runtime~main.js.map": "/moviebuff/static/js/runtime~main.891e3496.js.map",
     "static/css/2.5c4d1152.chunk.css": "/moviebuff/static/css/2.5c4d1152.chunk.css",
     "static/js/2.b90c24bd.chunk.js": "/moviebuff/static/js/2.b90c24bd.chunk.js",
     "static/js/2.b90c24bd.chunk.js.map": "/moviebuff/static/js/2.b90c24bd.chunk.js.map",
     "index.html": "/moviebuff/index.html",
-    "precache-manifest.657a0eddfacf33fe33c38f5535f4f39c.js": "/moviebuff/precache-manifest.657a0eddfacf33fe33c38f5535f4f39c.js",
+    "precache-manifest.05dc0ce13f7d110f97a7188502192c88.js": "/moviebuff/precache-manifest.05dc0ce13f7d110f97a7188502192c88.js",
     "service-worker.js": "/moviebuff/service-worker.js",
     "static/css/2.5c4d1152.chunk.css.map": "/moviebuff/static/css/2.5c4d1152.chunk.css.map",
     "static/css/main.56ba3fb2.chunk.css.map": "/moviebuff/static/css/main.56ba3fb2.chunk.css.map"
